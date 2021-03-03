@@ -20,19 +20,19 @@ msgstr ""
 #: code:addons/language_translation/base_accounting_kit/models/account_asset.py:0
 #, python-format
 msgid " (copy)"
-msgstr ""
+msgstr " (نسح)"
 
 #. module: base_accounting_kit
 #: code:addons/base_accounting_kit/models/account_asset.py:0
 #: code:addons/language_translation/base_accounting_kit/models/account_asset.py:0
 #, python-format
 msgid " (grouped)"
-msgstr ""
+msgstr " (مجمعة)"
 
 #. module: base_accounting_kit
 #: model:ir.model.fields,field_description:base_accounting_kit.field_account_asset_asset__entry_count
 msgid "# Asset Entries"
-msgstr ""
+msgstr "مدخلات الأصول"
 
 #. module: base_accounting_kit
 #: model:ir.model.fields,field_description:base_accounting_kit.field_asset_asset_report__depreciation_nbr
@@ -56,7 +56,7 @@ msgstr ""
 #. module: base_accounting_kit
 #: model_terms:ir.ui.view,arch_db:base_accounting_kit.report_bank_book
 msgid ": Bank Book Report"
-msgstr ": تقرير كتاب البنك"
+msgstr ": تقرير دفتر يومية البنك"
 
 #. module: base_accounting_kit
 #: model_terms:ir.ui.view,arch_db:base_accounting_kit.report_cash_book
@@ -66,7 +66,7 @@ msgstr ": تقرير دفتر النقدية"
 #. module: base_accounting_kit
 #: model_terms:ir.ui.view,arch_db:base_accounting_kit.day_book_report_template
 msgid ": Day Book Report"
-msgstr ": تقرير كتاب اليوم"
+msgstr ": تقرير دفتر اليومية"
 
 #. module: base_accounting_kit
 #: model_terms:ir.ui.view,arch_db:base_accounting_kit.report_general_ledger

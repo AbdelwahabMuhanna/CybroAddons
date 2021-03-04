@@ -1598,7 +1598,7 @@ msgstr "تاريخ التفعيل"
 #: model:ir.model.fields,help:base_accounting_kit.field_account_payment__effective_date
 #: model:ir.model.fields,help:base_accounting_kit.field_account_payment_register__effective_date
 msgid "Effective date of PDC"
-msgstr "التاريخ الفعلي للشيك المتأخر"
+msgstr "التاريخ الفعلي للشيك المؤجل"
 
 #. module: base_accounting_kit
 #: code:addons/base_accounting_kit/models/payment_matching.py:0
